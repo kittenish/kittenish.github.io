@@ -1,0 +1,22 @@
+#myTab {
+	margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#myName {
+	margin: 20px;
+    text-align: center;
+}
+
+#linkToXingyi {
+	margin-top: 10px;
+	text-align: center;
+}
+
+a {
+	color: #e67e22!important;
+}
+
+.text-primary {
+	color: #e67e22!important;
+}
